@@ -2,8 +2,6 @@
 /**
  * Koseven Debug Toolbar
  *
- * @package debugtoolbar
- *
  * @author Aaron Forsander <http://grimhappy.com/>
  * @author Ivan Brotkin (BIakaVeron) <BIakaVeron@gmail.com>
  * @author Sergei Gladkovskiy <smgladkovskiy@gmail.com>
