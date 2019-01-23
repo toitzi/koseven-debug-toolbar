@@ -31,7 +31,7 @@ class Kohana_DebugToolbar {
 	 * Custom sections container
 	 * @var array
 	 */
-    protected static $_custom_sections = [];
+   	protected static $_custom_sections = [];
 
 	/**
 	 * Can we render toolbar?
