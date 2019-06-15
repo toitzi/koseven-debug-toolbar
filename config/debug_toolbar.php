@@ -4,7 +4,7 @@ return [
 	'auto_render' => TRUE,
 
 	// Enabled Debug Panels
-	'panels'  => [
+	'panels' => [
 		'benchmarks' => TRUE,
 		'database'	 => TRUE,
 		'vars'		 => TRUE,
@@ -17,10 +17,13 @@ return [
 	],
 
 	// Toolbar Alignment (left, center, right)
-	'align'	  	   => 'right',
+	'align' => 'right',
+	
+	// Start debug bar closed?
+        'start_closed' => FALSE,
 
 	// Access key. If defined this access key needs to be sent as $_GET variable to display toolbar
-	'access_key'   => FALSE,
+	'access_key' => FALSE,
 
 	// Skip displaying the following configurations Caution! Removing this will result your database and encrypt
 	// credentials being visible in the debug toolbar
